@@ -42,7 +42,7 @@ rs - Check if the relay is on or off.
 /help - Display information on how to use this bot.  
 /ca - Connect this chat as Input Chat.  
 /cas - Check which chat ID the Input Chat is connected to.  
-/cb - Connect CHAT_ID# as Output Chat. E.g. /cb -1001323286228
+/cb - Connect CHAT_ID# as Output Chat. E.g. /cb -1001323286228  
 /cbs - Check which chat ID the Output Chat is connected to.   
 /sr - Start message relay between the Input and Output Chats.  
 /cr - Cut message relay between the Input and Output Chats. 
