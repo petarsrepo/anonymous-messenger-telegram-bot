@@ -1,4 +1,4 @@
-# Anonymous Messenger Telegram Bot
+# Anonymous Messenger Telegram Bot [![using with dotenv-vault](https://badge.dotenv.org/using.svg?r=1)](https://www.dotenv.org/r/github.com/motdotla/dotenv?r=1)
 A modified version of the [Group Bridge Message Relay Telegram Bot](https://github.com/STKDevworks/group-bridge-message-relay-telegram-bot). Links two Telegram Chats together and transmits messages from the Input to the Output Chat. Will not include sender unless forwarded. Perfect for Customer Support teams that wish to maintain their account names private.
   
 ## REQUIREMENTS
